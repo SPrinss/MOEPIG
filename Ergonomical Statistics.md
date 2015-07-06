@@ -1,7 +1,5 @@
 # I - Teaching Statistics Ergonomically
 
-Examples below are mostly from geometry (except Fourier transform, which an subject of interest for statistics), but the method of visualization is applicable to statistical concepts and formulas.
-
 ## Method #1: Interactive Visualizations
 - Example #1: [How to interpret correlations?](http://rpsychologist.com/d3/correlation/)
 - Example #2: [Understanding confidence intervals](http://rpsychologist.com/d3/CI/)
@@ -11,6 +9,8 @@ Examples below are mostly from geometry (except Fourier transform, which an subj
 Most of these visualizations are created using D3.js—a visualization library for javascript. I know a programmer who may be willing to help us with creation of this kind of visualizations.
 
 ## Method #2: Animations
+
+Animations below are mostly from geometry (except Fourier transform, which an subject of interest for statistics), but the method of visualization is applicable to statistical concepts and formulas.
 
 - Example #1: Circles and radians 
 
