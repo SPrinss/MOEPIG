@@ -64,16 +64,15 @@ If you are concerned about whether statistical concepts can be visualized this w
 
 # II - Doing Statistics Ergonomically
 
-- [JASP](https://jasp-stats.org/) — This can be our homebrew statistics engine for our students.
-
+- [JASP](https://jasp-stats.org/) — This can be our homebrew statistics engine for our students:
     A beautifully simple and open-source stats package that is being developed by UvA. "Slimmer than SPSS, more delicious than R". The software has instant gratification and ergonomics built at it's core (the demo video below is a must watch if you have ever used SPSS, and hated it); and has a context-sensitive help panel on the left side which can be customized for educational purposes. It's open source, and as far as I know, can be run on a web server. It's team is ["very keen to support the teaching of JASP"](https://jasp-stats.org/teaching-jasp/), and therefore, would be likely to support us if we would like to implement it to our website for educational purposes.
     [Demo of JASP](https://www.youtube.com/watch?v=CVuzc08_LyY)
 
-- [Tableau](http://get.tableau.com/trial/tableau-9-0.html?cid=70160000000YF0Q&ls=Paid%20Search&lsd=Google%20AdWords%20-%20Tableau%20-%20EMEA%20-%20Other%20-%20Free%20Trial&adgroup=Tableau%20-%20Exact&kw=tableau&adused=67742452822&distribution=search&gclid=CjwKEAjwzuisBRClgJnI4_a96zwSJACAEZKeuYOZ_65BWnMAIomEzEyLJdMw0gn4U-nQZybg9D9GlxoCIsTw_wcB)
+- [Tableau](http://get.tableau.com/trial/tableau-9-0.html?cid=70160000000YF0Q&ls=Paid%20Search&lsd=Google%20AdWords%20-%20Tableau%20-%20EMEA%20-%20Other%20-%20Free%20Trial&adgroup=Tableau%20-%20Exact&kw=tableau&adused=67742452822&distribution=search&gclid=CjwKEAjwzuisBRClgJnI4_a96zwSJACAEZKeuYOZ_65BWnMAIomEzEyLJdMw0gn4U-nQZybg9D9GlxoCIsTw_wcB):
     Polished and ergonomic stats package for business analytics. Can be repurposed for stats education.
     [Demo](https://vimeo.com/58727174)
 
-- [Wolfram Alpha](https://www.wolframalpha.com/)
+- [Wolfram Alpha](https://www.wolframalpha.com/):
     Fast, efficient, and highly visual statistics engine for basic operations.
     [Example usage scenarios for statistics](https://www.wolframalpha.com/examples/Statistics.html)
 
