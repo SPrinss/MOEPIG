@@ -1,5 +1,7 @@
 # I - Teaching Statistics Ergonomically
 
+Examples below are mostly from geometry (except Fourier transform, which an subject of interest for statistics), but the method of visualization is applicable to statistical concepts and formulas.
+
 ## Method #1: Interactive Visualizations
 - Example #1: [How to interpret correlations?](http://rpsychologist.com/d3/correlation/)
 - Example #2: [Understanding confidence intervals](http://rpsychologist.com/d3/CI/)
@@ -16,7 +18,7 @@ Most of these visualizations are created using D3.js—a visualization library f
 
 - Example #2: Transforming time to frequency using Fourier transform. 
     
-    An advanced statistics method explained beautifully, which is a subject that is a  nightmare to understand by reading [text books](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/fourier_illing.pdf) and mathematical functions. See original page and text [here](http://1ucasvb.tumblr.com/post/43816237610/the-fourier-transform-takes-an-input-function-f). The ideal teaching approach would be to annotate these animations with audio or text within the animations, and/or provide text below the animation for details, in a manner similar to the web original web page the animation is featured on. 
+    An advanced statistics method explained beautifully, which is a subject that is a  nightmare to understand by reading [text books](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/fourier_illing.pdf) and mathematical functions. See original web page and text [here](http://1ucasvb.tumblr.com/post/43816237610/the-fourier-transform-takes-an-input-function-f). The ideal teaching approach would be to annotate these animations with audio or text within the animations, and/or provide text below the animation for details, in a manner similar to the web original page the animation is featured on. 
 
     ![Fourier transform](https://upload.wikimedia.org/wikipedia/commons/5/50/Fourier_transform_time_and_frequency_domains.gif)
 
@@ -28,11 +30,11 @@ Most of these visualizations are created using D3.js—a visualization library f
 
     ![Sine and Cosine](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
-- Example #5: A geometry example—very similar to Bryne's book which will be mentioned below.
+- Example #5: Another geometry example—very similar style to Bryne's book which will be mentioned below.
 
     ![A geometry example](https://upload.wikimedia.org/wikipedia/commons/f/fd/Pappus_centroid_theorem_areas.gif)
 
-If you are concerned about whether basic statistical concepts can be visualized this way, my answer is yes. I would be willing to personally help visualize them.
+If you are concerned about whether statistical concepts can be visualized this way, my answer is yes. I would be willing to personally help visualize them.
 
 ## Method #3: Visualizations
 
@@ -65,17 +67,13 @@ If you are concerned about whether basic statistical concepts can be visualized 
 - [JASP](https://jasp-stats.org/) — This can be our homebrew statistics engine for our students.
 
     A beautifully simple and open-source stats package that is being developed by UvA. "Slimmer than SPSS, more delicious than R". The software has instant gratification and ergonomics built at it's core (the demo video below is a must watch if you have ever used SPSS, and hated it); and has a context-sensitive help panel on the left side which can be customized for educational purposes. It's open source, and as far as I know, can be run on a web server. It's team is ["very keen to support the teaching of JASP"](https://jasp-stats.org/teaching-jasp/), and therefore, would be likely to support us if we would like to implement it to our website for educational purposes.
-
     [Demo of JASP](https://www.youtube.com/watch?v=CVuzc08_LyY)
 
-
 - [Tableau](http://get.tableau.com/trial/tableau-9-0.html?cid=70160000000YF0Q&ls=Paid%20Search&lsd=Google%20AdWords%20-%20Tableau%20-%20EMEA%20-%20Other%20-%20Free%20Trial&adgroup=Tableau%20-%20Exact&kw=tableau&adused=67742452822&distribution=search&gclid=CjwKEAjwzuisBRClgJnI4_a96zwSJACAEZKeuYOZ_65BWnMAIomEzEyLJdMw0gn4U-nQZybg9D9GlxoCIsTw_wcB)
-
     Polished and ergonomic stats package for business analytics. Can be repurposed for stats education.
     [Demo](https://vimeo.com/58727174)
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
- 
     Fast, efficient, and highly visual statistics engine for basic operations.
     [Example usage scenarios for statistics](https://www.wolframalpha.com/examples/Statistics.html)
 
