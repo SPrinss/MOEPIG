@@ -11,7 +11,9 @@ Most of these visualizations are created using D3.js—a visualization library f
 ## Method #2: Animations
 
 - Example #1: Circles and radians 
-![Circles and radians](https://upload.wikimedia.org/wikipedia/commons/4/4e/Circle_radians.gif)
+
+    ![Circles and radians](https://upload.wikimedia.org/wikipedia/commons/4/4e/Circle_radians.gif)
+
 - Example #2: Transforming time to frequency using Fourier transform. 
     
     An advanced statistics method explained beautifully, which is a subject that is a  nightmare to understand by reading [text books](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/fourier_illing.pdf) and mathematical functions. See original page and text [here](http://1ucasvb.tumblr.com/post/43816237610/the-fourier-transform-takes-an-input-function-f). The ideal teaching approach would be to annotate these animations with audio or text within the animations, and/or provide text below the animation for details, in a manner similar to the web original web page the animation is featured on. 
