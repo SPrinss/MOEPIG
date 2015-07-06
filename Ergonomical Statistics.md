@@ -52,7 +52,7 @@ If you are concerned about whether statistical concepts can be visualized this w
 
 ## Method #4: Casual Language
 
-- Example: Andy Field's Books — This guy made an attempt to make statistics a bit more fun, and sold millions of books. His method was using clear language (although I find it debatable how clear it was, it at least *tried* to avoid jargon), and humor (which I found distracting). I did not find his approach effective for me, as it was still heavily text-based and only *supposed-to-be-fun* but not really fun in my opinion. However, the popularity of his books is a good indicator of how much a lightherated and *ergonomic* approach is needed for statistics education.   
+- Example: Andy Field's Books — This guy made an attempt to make statistics a bit more fun, and sold millions of books. His method was using clear language (although I find it debatable how clear it was, it at least *tried* to avoid jargon), and humor (which I found distracting). I did not find his approach effective for me, as it was still heavily text-based and only *supposed-to-be-fun* but not really fun in my opinion. However, the popularity of his books is a good indicator of how much a lighthearted and *ergonomic* approach is needed for statistics education.   
     + [Discovering Statistics Using **SPSS** (and Sex, Drugs and Rock'n'roll) (original title)](https://books.google.nl/books/about/Discovering_Statistics_Using_SPSS.html?id=IY61Ddqnm6IC&redir_esc=y)
     + [Discovering Statistics Using **R** (and Sex, Drugs and Rock'n'roll) (original title)](https://books.google.nl/books/about/Discovering_Statistics_Using_SPSS.html?id=IY61Ddqnm6IC&redir_esc=y)
 
