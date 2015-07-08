@@ -17,11 +17,3 @@ Small teams could work together to tackle a certain problem. *However, for creat
 ## Starting product
 
 **Statistics course** with 10x10 items. The items differ in specific learning processes (e.g.depth of the information, the medium). Might want to work together with other parties for the content (jasp_stats.org, statistiekfabriek, online websites). Goal is to create a working product, design the platform, test A-B testing and create momentum.
-
-
-
-
-# Brainstorm session #1 
-![Post-break](http://www.moepig.nl/wp-content/uploads/2015/06/brainstorm-session-1-postbreak.png)
-
-![Pre-break](http://www.moepig.nl/wp-content/uploads/2015/06/brainstorm-session-1-prebreak.png)
