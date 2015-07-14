@@ -21,4 +21,4 @@ Good comprehensive book on learning itself [here](http://www.colorado.edu/MCDB/L
 Paper about good education by Biesta [here](http://lchc.ucsd.edu/mca/Mail/xmcamail.2014-11.dir/pdfgU6kKuP7V0.pdf)
 
 # On Changing Concepts
-Paper about conceptual change by Vosniadou [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.504.9853&rep=rep1&type=pd)
+Paper about conceptual change by Vosniadou [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.504.9853&rep=rep1&type=pdf)
