@@ -9,3 +9,7 @@ Please feel free to add your own content to any file and discuss using pull requ
 # Using GitHub
 
 There are some great tutorials on how to use GitHub on [GitHub Guides](https://guides.github.com/)
+
+# Using Issues
+## User story
+To <benefit> as a <user> I can <goal>
