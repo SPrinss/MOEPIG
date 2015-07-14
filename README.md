@@ -12,4 +12,4 @@ There are some great tutorials on how to use GitHub on [GitHub Guides](https://g
 
 # Using Issues
 ## User story
-To <benefit> as a <user> I can <goal>
+To `<benefit>` as a `<user>` I can `<goal>`
