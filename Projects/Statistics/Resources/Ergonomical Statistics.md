@@ -75,7 +75,3 @@ If you are concerned about whether statistical concepts can be visualized this w
 - [Wolfram Alpha](https://www.wolframalpha.com/):
     Fast, efficient, and highly visual statistics engine for basic operations.
     [Example usage scenarios for statistics](https://www.wolframalpha.com/examples/Statistics.html)
-
----
-
-Please feel free to add your own content to this document.
