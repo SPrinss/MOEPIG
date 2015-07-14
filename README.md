@@ -18,4 +18,7 @@ To `<benefit>` as a `<user>` I can `<goal>`
 Good comprehensive book on learning itself [here](http://www.colorado.edu/MCDB/LearningBiology/readings/How-people-learn.pdf)
 
 # On Good Education
-Paper about good education [here](http://lchc.ucsd.edu/mca/Mail/xmcamail.2014-11.dir/pdfgU6kKuP7V0.pdf)
+Paper about good education by Biesta [here](http://lchc.ucsd.edu/mca/Mail/xmcamail.2014-11.dir/pdfgU6kKuP7V0.pdf)
+
+# On Changing Concepts
+Paper about conceptual change by Vosniadou [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.504.9853&rep=rep1&type=pd)
