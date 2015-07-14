@@ -15,4 +15,7 @@ There are some great tutorials on how to use GitHub on [GitHub Guides](https://g
 To `<benefit>` as a `<user>` I can `<goal>`
 
 # On Learning
-Download a good comprehensive book on learning itself [here](http://www.colorado.edu/MCDB/LearningBiology/readings/How-people-learn.pdf)
+Good comprehensive book on learning itself [here](http://www.colorado.edu/MCDB/LearningBiology/readings/How-people-learn.pdf)
+
+# On Good Education
+Paper about good education [here](http://lchc.ucsd.edu/mca/Mail/xmcamail.2014-11.dir/pdfgU6kKuP7V0.pdf)
