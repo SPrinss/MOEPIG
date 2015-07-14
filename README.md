@@ -3,3 +3,9 @@
 Here we want to create an internal repository of knowledge and what we know for sure.
 
 Plus we'll use issues to discuss what needs to be done
+
+Please feel free to add your own content to any file and discuss using pull requests.
+
+# Using GitHub
+
+There are some great tutorials on how to use GitHub on [GitHub Guides](https://guides.github.com/)
