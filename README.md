@@ -13,3 +13,6 @@ There are some great tutorials on how to use GitHub on [GitHub Guides](https://g
 # Using Issues
 ## User story
 To `<benefit>` as a `<user>` I can `<goal>`
+
+# On Learning
+Download a good comprehensive book on learning itself [here](http://www.colorado.edu/MCDB/LearningBiology/readings/How-people-learn.pdf)
