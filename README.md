@@ -15,7 +15,7 @@ There are some great tutorials and explanations on how to use GitHub on [GitHub 
 1. Create a new branch with a short name that describes your changes.
 2. Edit or create the files you think need to be changed, per change commit your changes with a short descriptive explanation of your change.
 3. When content with what you have changed, [create a new _Pull Request_](https://github.com/NewAtoms/MOEPIG/compare) give it a descriptive title.
-4. Ask people to review your _Pull Request_ by `@` mentioning them in the description of that _Pull Request_.
+4. Ask people to review your _Pull Request_ by `@` mentioning them in the description of that _Pull Request_. If you mention the _Issue_ number that it resolves, use `fixes #15` (or whatever number your _Issue_ has) and it will automatically close the _Issue_ when the _Pull Request_ is closed.
 5. If everyone is happy, have someone else merge your _Pull Request_ and delete it's branch.
 
 # Using Issues
