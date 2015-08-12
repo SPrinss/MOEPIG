@@ -15,4 +15,4 @@ There are some great tutorials on how to use GitHub on [GitHub Guides](https://g
 To `<benefit>` as a `<user>` I can `<goal>`
 
 Try to be as precise as possible. This will allow us to be on the same page and forces you to really think about what the actual issue is. Issues can be on a big picture- and on a small, very temporary, scale.
-Please add labels where necessary.
+Please add labels and add to milestones where necessary.
