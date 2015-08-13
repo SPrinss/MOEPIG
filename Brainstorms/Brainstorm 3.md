@@ -9,7 +9,7 @@ The Grid - Path recommendation engine
 The Grid - Collaborative content creation framework 
 
 
-# The Grid big picture
+## The Grid big picture
 Ways of learning are: Dimension (video, text, animation ..), type of language ((in)formal, jargon use ..), 
 depth of the information / previous knowledge (real world examples vs abstract requiring prequisite knowledge), instruction vs questions & hints.
 
