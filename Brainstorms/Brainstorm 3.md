@@ -6,6 +6,7 @@ We want everybody to learn what matters most to them in a joyful, meaningful and
 # Projects
 The Grid - Path recommendation engine
            subproject - [LTI link](http://www.imsglobal.org/toolsinteroperability2.cfm). module for other content generators (Coursera etc)
+
 The Grid - Collaborative content creation framework 
 
 
