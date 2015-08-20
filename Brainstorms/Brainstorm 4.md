@@ -17,7 +17,7 @@ Ques might be better for the first style while the Grid might might suit the sec
 For the Grid: find out how to teach statistics (copy from books). Search for statistics content online (small issue), put in MD files. 
 Create script that generates websites -> Google analytics
 
-Ques: Interface for questions and graph database.
+Ques: Interface for inputting questions and a graph database to store the questions.
 Think of an interface that is intuitive. (that allows for asking questions that will result in a certain learning context (e.g. visual))
 Create User stories for this product
 
