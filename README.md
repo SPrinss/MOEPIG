@@ -26,7 +26,11 @@ We use [_GitHub Issues_](https://guides.github.com/features/issues/) to track ev
 2. make it's title either a _User Story_ or a _Problem Statement_.
 3. Explain yourself if you feel that it is necessary in the description field, and `@` mention those who you think need to know about this issue.
 
+Try to be as precise as possible. This will allow us to be on the same page and forces you to really think about what the actual issue is. Issues can be on a big picture- and on a small, very temporary, scale.
+
 If you doing something, assign yourself. Do not assign others to tasks, as it is useful to be able what someone is actually doing at that moment. Try not to assign things to yourself you are not yet going to do as others might be able to do it before you.
+
+Please add labels and add to milestones where necessary.
 
 ### Issue titles
 
@@ -34,10 +38,18 @@ As a general rule of thumb, an issue title never states how something should be 
 
 ### User story
 
-A [_User Story_](https://en.wikipedia.org/wiki/User_story) describes the situation **after** it has been resolved and always has the following form:
+Try to be as precise as possible. This will allow us to be on the same page and forces you to really think about what the actual issue is. 
+
+Issues can be on a big picture- and on a small, very temporary, scale.A [_User Story_](https://en.wikipedia.org/wiki/User_story) describes the situation **after** it has been resolved and always has the following form:
 
 > To _[**benefit**]_ as a _[**user**]_ I can _[**goal**]_
 
 ### Problem statement
 
 This is a more loose approach that allows you to define a problem that needs to be resolved.
+
+## Help
+
+There are some great tutorials on how to use GitHub on [GitHub Guides](https://guides.github.com/)
+
+For other help, please refer to Boris on Slack
